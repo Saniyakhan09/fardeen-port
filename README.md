@@ -39,6 +39,4 @@ Here are some inspiration for this kind of terminal website. Only some features 
 - [term m4tt72](https://term.m4tt72.com/)
 - [Forrest](https://fkcodes.com/)
 
-## Author
 
-- [@satnaing](https://satnaing.dev)
